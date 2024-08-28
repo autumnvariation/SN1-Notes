@@ -7,7 +7,7 @@ Python has two primitive loop commands:
 
 ## The while Loop
 
- `while` loop in Python is a control flow statement that allows code to be executed repeatedly based on a given condition. The loop continues to execute the block of code as long as the specified condition is `True`. Once the condition becomes `False`, the loop stops.
+ `while` loop in Python is a control flow statement that allows code to be executed repeatedly based on a given condition. The loop continues to execute the block of code as long as the specified condition is `True`. Once the condition becomes `False`, the loop stops and the program continues past the loop.
 
 ### 1. While Loop Syntax
 

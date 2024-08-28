@@ -12,6 +12,8 @@ while guess_cont < guess_limit:
     if guess == secret_number:
         print("Your guess is correct")
         break
+    else:
+        print("Your guess is incorrect. Try again")
 else:
     print("Sorry, you failed")
 ```
